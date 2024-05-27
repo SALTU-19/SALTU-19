@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coşkun Hasan ŞALTU</h1>
-<h3 align="center">Web developer and mobile from Turkey</h3>
+<h3 align="center">Web and mobile developer  from Turkey</h3>
 
 - 🔭 I’m currently working on [COWEALTHY](https://cowealthy.com/)
 
